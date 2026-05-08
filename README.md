@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Liz!
 
 🎓 PhD in Bioengineering @ University of Colorado Denver  
-📍 Denver, CO  
+
 >_Research focus: predictive modeling of ventilator-associate lung injury (VILI and dyssynchrony)_
 
 ## 💻 What I work with
