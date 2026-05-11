@@ -5,7 +5,7 @@
 
 ## 💻 What I work with
 - MATLAB (expert), control software, & graphical user interfaces (GUI)
-- Python (pandas, numpy, scikit-learn, basic pytorch)
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - Machine learning
 - High frequency time-series data analysis (continuous ventilator waveforms)
 - Data exploration & data visualization
