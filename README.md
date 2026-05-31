@@ -7,7 +7,7 @@
 - MATLAB (expert), control software, & graphical user interfaces (GUI)
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - Machine learning
-- High frequency time-series data analysis (continuous ventilator waveforms)
+- Time-series data analysis (continuous ventilator waveforms)
 - Data exploration & data visualization
 
 ## 📊 Projects
