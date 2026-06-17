@@ -12,7 +12,7 @@
 
 ## 📊 Projects
 - Lung injury prediction from lung mechancis (elastance data) to look at lung dynamics and the impact of lung injury [published: https://pubmed.ncbi.nlm.nih.gov/41015422/]
-- Lung injury prediction from high frequency, continuous pressure, flow, and volume waveforms (ventilator waveforms)
+- Lung injury prediction from continuous pressure, flow, and volume waveforms (ventilator waveforms)
 - Inferred model effort in ventilator dyssynchrony
 
 ## 📫 Connect with me
