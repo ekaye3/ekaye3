@@ -4,7 +4,7 @@
 >_Research focus: predictive modeling of ventilator-associate lung injury (VILI and dyssynchrony)_
 
 ## 💻 What I work with
-- MATLAB (expert), control software, & graphical user interfaces (GUI)
+- MATLAB (expert), research software & integration (GUI)
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - Machine learning
 - Time-series data analysis (continuous ventilator waveforms)
@@ -12,8 +12,9 @@
 
 ## 📊 Projects
 - Lung injury prediction from lung mechancis (elastance data) to look at lung dynamics and the impact of lung injury [published: https://pubmed.ncbi.nlm.nih.gov/41015422/]
+- Inferred model effort in ventilator dyssynchrony (publication in review)
 - Lung injury prediction from continuous pressure, flow, and volume waveforms (ventilator waveforms)
-- Inferred model effort in ventilator dyssynchrony
+
 
 ## 📫 Connect with me
 LinkedIn:https://www.linkedin.com/in/elizabeth-kaye/  
