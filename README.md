@@ -1,20 +1,25 @@
 ## 👋 Hi, I'm Liz!
 
 🎓 PhD in Bioengineering @ University of Colorado Denver  
->_Research focus: predictive modeling of ventilator-associate lung injury (VILI and dyssynchrony)_
+>_Research focus: predictive modeling of ventilator-associate lung injury in preclinical models (VILI and dyssynchrony)_
+
+🔭 Looking to bring this expertise to tackle clinical critical care and digital health spaces
 
 ## 💻 What I work with
-- MATLAB (expert), research software & integration (GUI)
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-- Machine learning
-- Time-series data analysis (continuous ventilator waveforms)
+- SQL (querying, joins, data cleaning)
+- MATLAB (expert), data ingestion, processing & modeling, research software & integration (GUI)
+- Machine learning (regularized regression pipelines & grad coursework in unsupervised and NNs)
+- Time-series data (continuous ventilator waveforms)
 - Data exploration & data visualization
 
 ## 📊 Projects
-- Lung injury prediction from lung mechancis (elastance data) to look at lung dynamics and the impact of lung injury [published: https://pubmed.ncbi.nlm.nih.gov/41015422/]
-- Inferred model effort in ventilator dyssynchrony (publication in review)
-- Lung injury prediction from continuous pressure, flow, and volume waveforms (ventilator waveforms)
-
+- ECG Abnormality Classification (Python): ML pipeline using the PTB-XL clinical ECG dataset (21,799 recordings, PhysioNet) — HRV feature 
+  engineering, logistic regression and random forest models
+- Data pipeline creation (Python & SQL): ingestion and transformation in Databricks (PySpark/SQL), loaded into Snowflake for analysis and visualization
+- Lung injury prediction from continuous pressure, flow, and volume (ventilator) waveforms (MATLAB): load signals, signal processing steps, feature extraction, and    predictive regularized regression model
+- Modeling of respiratory efforts (modified compartment model) in mouse model of ventilator dyssynchrony (publication in review, MATLAB): model design and fitting to sensor data
+- Lung injury prediction from lung mechanics (elastance data) to look at lung dynamics and the impact of lung injury [published: https://pubmed.ncbi.nlm.nih.gov/41015422/] (MATLAB): Model fitting to data, parameter estimation, physics-based modeling
 
 ## 📫 Connect with me
 LinkedIn:https://www.linkedin.com/in/elizabeth-kaye/  
