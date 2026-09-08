@@ -17,9 +17,9 @@
 - ECG Abnormality Classification (Python): ML pipeline using the PTB-XL clinical ECG dataset (21,799 recordings, PhysioNet) — HRV feature 
   engineering, logistic regression and random forest models
 - Data pipeline creation (Python & SQL): ingestion and transformation in Databricks (PySpark/SQL), loaded into Snowflake for analysis and visualization
-- Lung injury prediction from continuous pressure, flow, and volume (ventilator) waveforms (MATLAB): load signals, signal processing steps, feature extraction, and    predictive regularized regression model
-- Modeling of respiratory efforts (modified compartment model) in mouse model of ventilator dyssynchrony (publication in review, MATLAB): model design and fitting to sensor data
-- Lung injury prediction from lung mechanics (elastance data) to look at lung dynamics and the impact of lung injury [published: https://pubmed.ncbi.nlm.nih.gov/41015422/] (MATLAB): Model fitting to data, parameter estimation, physics-based modeling
+- Lung injury prediction from continuous pressure, flow, and volume (ventilator) waveforms (MATLAB): load signals, signal processing steps, feature extraction, and    predictive regularized regression model (publication in submission)
+- Inferred Respiratory Effort Model (MATLAB): Related pressure drop in continuous pressure recordings to known respiratory efforts to determine strength by fitting a modified compartment model to mouse data to study ventilator dyssynchrony (publication in review)
+- Lung injury prediction (MATLAB): Create and fit model to mouse lung elastance data (parameter estimation & physics-based modeling) to probe lung dynamics and the impact of lung injury [published: https://pubmed.ncbi.nlm.nih.gov/41015422/]
 
 ## 📫 Connect with me
 LinkedIn:https://www.linkedin.com/in/elizabeth-kaye/  
